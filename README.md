@@ -73,7 +73,7 @@ Example — disable autorun:
 With autorun off, invoke manually:
 ```
 /session-router
-/session-router MythTech writing session
+/session-router writing session
 ```
 
 ---
