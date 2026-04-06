@@ -2,7 +2,9 @@
 
 A Claude skill that automatically intercepts the start of every new session, reads your project context map, and generates a tailored checklist of files, skills, and MCP connectors to enable or disable before you begin.
 
-Built by [Jeff Hnilicka](https://github.com/yourusername). Contributions welcome.
+
+Built by [Jeff Townsend](https://github.com/townsendjs). Contributions welcome.
+
 
 ---
 
@@ -73,8 +75,9 @@ Example — disable autorun:
 With autorun off, invoke manually:
 ```
 /session-router
-/session-router MythTech writing session
-```
+
+/session-router writing session
+
 
 ---
 
